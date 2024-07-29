@@ -12,13 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavarius&show_icons=true&theme=radical" alt="Profile views" />
-</p>
-
 ## About Me:
-
-
 - 🔭 I’m currently working on AWS SysOps Certificate
 - 🌱 I’m currently learning Smart Contracts on the Stellar blockchain
 - 👯 I’m looking to collaborate on web3 projects specific to storing large datasets on the blockchain
