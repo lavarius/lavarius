@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me:
-- 🔭 I’m currently working on AWS SysOps Certificate
+- 🔭 I’m currently working on AWS SysOps and Cisco Certified Networking Associate Certificates
 - 🌱 I’m currently learning Smart Contracts on the Stellar blockchain
 - 👯 I’m looking to collaborate on web3 projects specific to storing large datasets on the blockchain
 
