@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 ## Pinned Repositories:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=wordpress-cf-stack&theme=radical)](https://github.com/lavarius/wordpress-cf-stack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=CG-DL-NeRF-TF-Keras&theme=radical)](https://github.com/lavarius/CG-DL-NeRF-TF-Keras)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=REST-APIs-with-Flask-and-Python&theme=radical)](https://github.com/lavarius/REST-APIs-with-Flask-and-Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=SQL-Course&theme=radical)](https://github.com/lavarius/SQL-Course)
