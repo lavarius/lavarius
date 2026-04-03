@@ -90,5 +90,6 @@ Ph.D. in Materials & Biomaterials Science and Engineering, now building automati
 |---|---|
 | [**HayesTicketCreator**](https://github.com/lavarius/HayesTicketCreator) | Automate creation of several tickets without API — Python |
 | [**headless-cms-iac-stack**](https://github.com/lavarius/headless-cms-iac-stack) | CloudFormation stack for WordPress — Infrastructure as Code |
-| [**BlockTalkAI**](https://github.com/lavarius/BlockTalkAI) | Conversational AI interviews with Blockchain focus — Docker |
-| [**gitops-cert-level-2-examples**](https://github.com/lavarius/gitops-cert-level-2-examples) | GitOps Certification Level 2 examples — Go |
+| [**video-game-hub**](https://github.com/lavarius/video-game-hub) | Video game discovery web app — search by platform, genre, and more — TypeScript |
+| [**whisper-transcriber-app**](https://github.com/lavarius/whisper-transcriber-app) | Audio transcription with OpenAI Whisper — Python |
+| [**GUI-Practice-Tkinter**](https://github.com/lavarius/GUI-Practice-Tkinter) | GUI development with Tkinter — Python |
