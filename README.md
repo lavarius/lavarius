@@ -65,7 +65,8 @@ Ph.D. in Materials & Biomaterials Science and Engineering, now building automati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavarius&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavarius&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavarius&theme=github_dark&utcOffset=-8" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -73,7 +74,8 @@ Ph.D. in Materials & Biomaterials Science and Engineering, now building automati
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavarius&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavarius&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavarius&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
@@ -84,7 +86,9 @@ Ph.D. in Materials & Biomaterials Science and Engineering, now building automati
 
 ## Featured Repositories
 
-[![HayesTicketCreator](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=HayesTicketCreator&theme=github_dark&hide_border=true)](https://github.com/lavarius/HayesTicketCreator)
-[![headless-cms-iac-stack](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=headless-cms-iac-stack&theme=github_dark&hide_border=true)](https://github.com/lavarius/headless-cms-iac-stack)
-[![BlockTalkAI](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=BlockTalkAI&theme=github_dark&hide_border=true)](https://github.com/lavarius/BlockTalkAI)
-[![gitops-cert-level-2-examples](https://github-readme-stats.vercel.app/api/pin/?username=lavarius&repo=gitops-cert-level-2-examples&theme=github_dark&hide_border=true)](https://github.com/lavarius/gitops-cert-level-2-examples)
+| Repository | Description |
+|---|---|
+| [**HayesTicketCreator**](https://github.com/lavarius/HayesTicketCreator) | Automate creation of several tickets without API — Python |
+| [**headless-cms-iac-stack**](https://github.com/lavarius/headless-cms-iac-stack) | CloudFormation stack for WordPress — Infrastructure as Code |
+| [**BlockTalkAI**](https://github.com/lavarius/BlockTalkAI) | Conversational AI interviews with Blockchain focus — Docker |
+| [**gitops-cert-level-2-examples**](https://github.com/lavarius/gitops-cert-level-2-examples) | GitOps Certification Level 2 examples — Go |
